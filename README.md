@@ -15,5 +15,5 @@ The purpose of this project is to get Latitude and Longitude for every operating
 
     The free daily qouta is enough for this small personal project like this (as of 21-Jul-2018), the official pricing and premium qouta is mentioned in this page. https://developers.google.com/maps/documentation/geocoding/usage-and-billing?hl=en_US
 
-3. Run 'Get GPS Coordinates from google map API' to extract the lat/long coordinates from the requests. Then, we can save the output for further step.
+3. Run 'Get GPS Coordinates from google map API.py' to extract the lat/long coordinates from the requests. Then, we can save the output for further step.
 
